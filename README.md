@@ -1,5 +1,10 @@
 # shinJS
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-MinatoAka%2FshinJS-181717?logo=github)](https://github.com/MinatoAka/shinJS)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D8.x-43853d?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
 A lightweight Node.js LINE bot client and automation toolkit built for experimenting with LINE messaging features, group management, and custom command handling.
 
 This project is a fork/variant of the original LINE bot implementation and includes custom command logic, poll loop handling, and generated Thrift bindings for LINE services.
