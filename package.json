@@ -1,7 +1,7 @@
 {
-  "name": "lineshinobijs",
-  "version": "0.2.1",
-  "description": "LineShinobi JS",
+  "name": "shinjs",
+  "version": "0.2.2",
+  "description": "Just fun!!😅",
   "main": "./library/main.js",
   "scripts": {
     "start": "npm run bot",
